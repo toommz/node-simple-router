@@ -4,7 +4,7 @@ My attempt at creating a web application router from scratch, without knowing ho
 
 This is what I ended with. It is by no means production ready, it's just a case study.
 
-## How tu use it
+## How to use it
 
 ```javascript
 var http = require('http');
